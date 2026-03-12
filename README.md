@@ -92,5 +92,5 @@ Desarrollar una plataforma digital que permita:
 
 Integrantes:
 Paz Molina
-
+Jordan Villegas
 Guerben cajuste
