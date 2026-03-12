@@ -1,4 +1,7 @@
-# Fullstack3
+# Api seleccionada: gestion de vehiculos.
+
+# 1. Microservicio Seleccionado: "Gestión de Vehículos"
+Se elige este microservicio porque es el corazón operativo de la plataforma multimodal (bicicletas, scooters, autos) y permite demostrar fácilmente la escalabilidad independiente
 
 Caso de estudio: Plataforma Integral de Movilidad
 Urbana
