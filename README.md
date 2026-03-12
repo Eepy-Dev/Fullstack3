@@ -3,7 +3,7 @@
 # 1. Microservicio Seleccionado: "Gestión de Vehículos"
 Se elige este microservicio porque es el corazón operativo de la plataforma multimodal (bicicletas, scooters, autos) y permite demostrar fácilmente la escalabilidad independiente
 
-#2. Justificación Técnica: ¿Por qué Microservicios?
+# 2. Justificación Técnica: ¿Por qué Microservicios?
 Para tu presentación, justifica la elección frente a un monolito con estos puntos clave de las fuentes:
 - Escalabilidad ante picos de demanda: El requerimiento exige soportar decenas de miles de usuarios concurrentes y picos en horas punta
 . Los microservicios permiten escalar solo el servicio de "Gestión de Vehículos" (donde los usuarios consultan disponibilidad) sin necesidad de escalar todo el sistema, optimizando costos
